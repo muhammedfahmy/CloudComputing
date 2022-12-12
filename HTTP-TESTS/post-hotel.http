@@ -1,0 +1,10 @@
+POST http://localhost:5000/hotels
+Content-Type: application/json
+
+{
+    "name": "Helnan",
+    "phoneNumber": "01001122444",
+    "description": "Helnan, recognized as “The Symbol of Scandinavian Hospitality”, has been delivering its guests excellence for decades. While the Group’s roots are in Denmark, its portfolio is now extended throughout Europe and the Middle East.",
+    "address": "Hurghada, Egypt",
+    "imageURI": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+}

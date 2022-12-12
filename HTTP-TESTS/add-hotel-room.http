@@ -1,0 +1,9 @@
+POST http://localhost:5000/hotels/638f8e67402b6d739b9fa93e/rooms
+Content-Type: application/json
+
+{
+    "type": 1,
+    "facilities": [1,2],
+    "number": 103,
+    "capacity": 3
+}
